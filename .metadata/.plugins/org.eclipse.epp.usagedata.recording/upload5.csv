@@ -1,0 +1,26 @@
+what,kind,bundleId,bundleVersion,description,time
+activated,view,org.eclipse.ui.navigator.resources,3.4.0.I20090525-2000,"org.eclipse.ui.navigator.ProjectExplorer",1368956494745
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.views.showView",1368956494745
+activated,view,org.eclipse.ui.views,3.4.0.I20090525-2000,"org.eclipse.ui.views.ContentOutline",1368956502716
+started,bundle,org.eclipse.debug.core,3.5.0.v20090526-1600,"org.eclipse.debug.core",1368956507693
+started,bundle,org.eclipse.debug.ui,3.5.0.v20090603,"org.eclipse.debug.ui",1368956507817
+no handler,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.file.refresh",1368956509939
+no handler,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.file.refresh",1368956513855
+no handler,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.file.refresh",1368956514323
+no handler,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.file.refresh",1368956514354
+no handler,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.file.refresh",1368956514369
+no handler,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.file.refresh",1368956514401
+no handler,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.file.refresh",1368956514432
+no handler,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.file.refresh",1368956514447
+no handler,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.file.refresh",1368956514978
+activated,view,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.internal.introview",1368956535813
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1368956542724
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1368956601832
+executed,command,org.eclipse.ui,3.5.0.I20090604-2000,"org.eclipse.ui.file.import",1368956601879
+deactivated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1368956603907
+activated,workbench,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"",1368956621379
+started,bundle,org.eclipse.jdt.launching,3.5.0.v20090527,"org.eclipse.jdt.launching",1368956622549
+started,bundle,org.eclipse.ltk.core.refactoring,3.5.0.v20090513-2000,"org.eclipse.ltk.core.refactoring",1368956624421
+started,bundle,org.eclipse.ltk.ui.refactoring,3.4.100.v20090604,"org.eclipse.ltk.ui.refactoring",1368956625451
+started,bundle,org.eclipse.compare.core,3.5.0.I20090430-0408,"org.eclipse.compare.core",1368956625950
+opened,editor,org.eclipse.jdt.ui,3.5.0.v20090604,"org.eclipse.jdt.ui.CompilationUnitEditor",1368956626122

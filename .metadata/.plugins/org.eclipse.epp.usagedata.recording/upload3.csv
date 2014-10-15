@@ -1,0 +1,26 @@
+what,kind,bundleId,bundleVersion,description,time
+started,bundle,org.eclipse.ui.net,1.2.0.I20090430-0408,"org.eclipse.ui.net",1368956034747
+started,bundle,org.eclipse.ui.views,3.4.0.I20090525-2000,"org.eclipse.ui.views",1368956034762
+started,bundle,org.eclipse.ui.workbench,3.5.0.I20090603-2000,"org.eclipse.ui.workbench",1368956034778
+started,bundle,org.eclipse.ui.workbench.texteditor,3.5.0.v20090603,"org.eclipse.ui.workbench.texteditor",1368956034793
+started,bundle,org.eclipse.update.configurator,3.3.0.v20090312,"org.eclipse.update.configurator",1368956034825
+started,bundle,org.eclipse.wst.common.emf,1.1.300.v200905060430,"org.eclipse.wst.common.emf",1368956034840
+started,bundle,org.eclipse.wst.common.emfworkbench.integration,1.1.300.v200811200330,"org.eclipse.wst.common.emfworkbench.integration",1368956034840
+started,bundle,org.eclipse.wst.common.frameworks,1.1.300.v200904160730,"org.eclipse.wst.common.frameworks",1368956034856
+started,bundle,org.eclipse.wst.common.frameworks.ui,1.1.300.v200904160730,"org.eclipse.wst.common.frameworks.ui",1368956034856
+started,bundle,org.eclipse.wst.common.modulecore,1.1.300.v200904132230,"org.eclipse.wst.common.modulecore",1368956034871
+started,bundle,org.eclipse.wst.common.project.facet.core,1.4.0.v200906080535,"org.eclipse.wst.common.project.facet.core",1368956034871
+started,bundle,org.eclipse.wst.jsdt.core,1.0.200.v200905201910,"org.eclipse.wst.jsdt.core",1368956034934
+started,bundle,org.eclipse.wst.jsdt.manipulation,1.0.100.v200809240707,"org.eclipse.wst.jsdt.manipulation",1368956034949
+started,bundle,org.eclipse.wst.jsdt.ui,1.0.200.v200905242047,"org.eclipse.wst.jsdt.ui",1368956034949
+started,bundle,org.eclipse.wst.sse.core,1.1.400.v200905141750,"org.eclipse.wst.sse.core",1368956034996
+started,bundle,org.eclipse.wst.validation,1.2.102.v200905201610,"org.eclipse.wst.validation",1368956035012
+started,bundle,org.eclipse.wst.web,1.1.300.v200901261500,"org.eclipse.wst.web",1368956035027
+started,bundle,org.eclipse.wst.xml.core,1.1.400.v200904300540,"org.eclipse.wst.xml.core",1368956035059
+os,sysinfo,,,"win32",1368956035090
+arch,sysinfo,,,"x86",1368956035090
+ws,sysinfo,,,"win32",1368956035090
+locale,sysinfo,,,"ru_RU",1368956035090
+processors,sysinfo,,,"2",1368956035090
+java.runtime.name,sysinfo,,,"Java(TM) SE Runtime Environment",1368956035090
+java.runtime.version,sysinfo,,,"1.7.0_01-b08",1368956035090
